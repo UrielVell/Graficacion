@@ -1,5 +1,5 @@
 import './css/style.css'
-import SceneManager from './scene/SceneManager';
+import SceneManager from './scene/sceneManager';
 
 const canvas = document.getElementById('bg');
 const ObjSceneManager = new SceneManager(canvas);
